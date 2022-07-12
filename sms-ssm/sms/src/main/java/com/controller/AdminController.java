@@ -34,7 +34,6 @@ public class AdminController {
     /**
      * @description: 跳转到管理员信息管理页面
      * @param: no
-     * @date: 2019-06-11 7:11 PM
      * @return: java.lang.String
      */
     @GetMapping("/goAdminListView")
